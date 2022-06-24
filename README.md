@@ -14,5 +14,7 @@ Install the following dependencies using anaconda prompt (in a new virtual envir
 
 `conda install matplotlib jupyter`
 
+`conda install -c pytorch torchvision=0.5.0`
+
 Register the conda environment that you have created before opening jupyter notebook
 
